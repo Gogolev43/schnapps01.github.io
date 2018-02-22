@@ -1,12 +1,6 @@
-<!DOCTYPE HTML>
-<!--
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
-		<title>Alexender Yatsenko</title>
+		<title>Alexander Profanov</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -22,13 +16,13 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Alexender Yatsenko</h1>
-						<p>Back-End (Studying) &nbsp;&bull;&nbsp; Editor &nbsp;&bull;&nbsp; A Little Designer</p>
+						<h1>Profanov</h1>
+						<p>Back-End (Studying) &nbsp;&bull;&nbsp; Editor &nbsp;&bull;&nbsp; Крутой</p>
 						<nav>
 							<ul>
-								<li><a href="https://twitter.com/_alexend6r" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="https://instagram.com/_alexend6r" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="https://github.com/alexend6r/alexend6r.github.io" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="https://twitter.com/Schnapps13" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://instagram.com/contraspemspero01" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://github.com/schnapps01/schanpps01.github.io" class="icon fa-github"><span class="label">Github</span></a></li>
 							</ul>
 						</nav>
 					</header>
